@@ -1,0 +1,34 @@
+
+
+
+.item-shop{
+    margin-top: 30px;
+    margin-right: 20px;
+    height: 200px;
+    width: 30%;   
+    background-color: mintcream;
+    border: 1px solid grey;
+    border-radius: 3%;
+    color:  #000000;
+    
+}
+
+.item-shop * {
+    margin: 15px;
+    text-align: center;
+}
+
+.item-shop .item-prezzo {
+    border: 1px solid black;
+    margin-right: 40px;
+    margin-left: 40px;
+}
+
+.item-shop .item-name {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+
+.btn-success {
+    margin-left: 37%;
+}

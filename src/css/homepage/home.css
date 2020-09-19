@@ -1,0 +1,61 @@
+
+@font-face { font-family: Helvetica-bold; src: url('src/font/helveticabold.ttf'); } 
+
+/* Backgroud Image */
+body{
+    background-image: url("https://i.imgur.com/1elc8g3.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+/* NavBar */
+#navb {
+    display: flex;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+#navb * { 
+    text-decoration: none;
+    font-family: Helvetica-bold;
+    text-align: center;
+    color: #D1D1D1;
+    margin: 20px 30px 0px 30px;
+    font-size: 25px;
+}
+
+/* Slogan */
+
+#slogan {
+    display: flex;
+    margin-top: 30%;
+    margin-left: 2%;
+    margin-right: 2%; 
+}
+
+#slogan #slogantext {
+
+    font-family: Helvetica-bold;
+    font-size: 75px;
+    text-align: center;
+    color: #D1D1D1;
+}
+
+#slogan span {
+    color: #a00134;
+}
+
+/* Item Name */
+
+#item-text {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    color: #D1D1D1;
+}
+
+
+/* Shop Item */
+
+
+/* .container {
+    border: 1px solid white;
+} */
